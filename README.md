@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**codespiderr/codespiderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello There
 
-Here are some ideas to get you started:
+## I am Suhas Jaladi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Computer Science student at PES University, Bangalore. 
+Passionate about machine learning and game development, with a focus on building intelligent systems and interactive experiences.
+Always exploring new technologies and improving problem-solving skills.
+
+I work with python, C, java, rust, html and css.
+
+mail - suhas.jaladi@gmail.com
+
